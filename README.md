@@ -1,2 +1,2 @@
 # rockpaperscissors-image-classification
-This is my first CNN project using tensorflow
+This is my first image classification project using Convolutional Neural Network with tensorflow
